@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Add custom settings here that are not exportable
+
+[HKEY_CURRENT_USER\SOFTWARE\TeamViewer]
+"HostInfoDialog"=dword:00000000
+"ShowInfo"=dword:00000000
+"ShowTaskbarInfoOnMinimize"=dword:00000000
